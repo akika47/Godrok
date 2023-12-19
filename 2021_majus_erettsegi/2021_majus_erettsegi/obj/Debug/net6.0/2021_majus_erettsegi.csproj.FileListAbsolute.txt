@@ -1,0 +1,15 @@
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\bin\Debug\net6.0\2021_majus_erettsegi.exe
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\bin\Debug\net6.0\2021_majus_erettsegi.deps.json
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\bin\Debug\net6.0\2021_majus_erettsegi.runtimeconfig.json
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\bin\Debug\net6.0\2021_majus_erettsegi.dll
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\bin\Debug\net6.0\2021_majus_erettsegi.pdb
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.csproj.AssemblyReference.cache
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.AssemblyInfoInputs.cache
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.AssemblyInfo.cs
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.csproj.CoreCompileInputs.cache
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.dll
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\refint\2021_majus_erettsegi.dll
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.pdb
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\2021_majus_erettsegi.genruntimeconfig.cache
+C:\Users\otvos.akos\Desktop\ÖÁ\2021_majus_erettsegi\2021_majus_erettsegi\obj\Debug\net6.0\ref\2021_majus_erettsegi.dll
